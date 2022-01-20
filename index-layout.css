@@ -1,0 +1,42 @@
+
+body {
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+a.bottom-left{
+    position: absolute;
+    bottom: 0;
+    left: 7px;
+    color: gray;
+    font-size: 28px;
+}
+
+a.bottom-left:link {
+    color: gray;
+}
+
+a.bottom-right{
+    position: absolute;
+    bottom: 0;
+    right: 7px;
+    color: gray;
+    font-size: 28px;
+}
+
+a.bottom-right:link {
+    color: gray;
+  }
+
+
+p.english-p{
+    text-align: center;
+}
+
+p {
+    color: black;
+}
