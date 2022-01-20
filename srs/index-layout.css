@@ -12,7 +12,7 @@ p {
     color: black;
 }
 
-a.bottom-left{
+a.a1{
     position: absolute;
     bottom: 0;
     left: 7px;
@@ -20,11 +20,11 @@ a.bottom-left{
     font-size: 28px;
 }
 
-a.bottom-left:link {
+a.a1:link {
     color: black;
 }
 
-a.bottom-right{
+a.a2{
     position: absolute;
     bottom: 0;
     right: 7px;
@@ -32,7 +32,7 @@ a.bottom-right{
     font-size: 28px;
 }
 
-a.bottom-right:link {
+a.a2:link {
     color: black;
   }
 
