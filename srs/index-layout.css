@@ -8,28 +8,32 @@ h1{
     color: black;
 }
 
+p {
+    color: black;
+}
+
 a.bottom-left{
     position: absolute;
     bottom: 0;
     left: 7px;
-    color: gray;
+    color: black;
     font-size: 28px;
 }
 
 a.bottom-left:link {
-    color: gray;
+    color: black;
 }
 
 a.bottom-right{
     position: absolute;
     bottom: 0;
     right: 7px;
-    color: gray;
+    color: black;
     font-size: 28px;
 }
 
 a.bottom-right:link {
-    color: gray;
+    color: black;
   }
 
 
@@ -37,6 +41,14 @@ p.english-p{
     text-align: center;
 }
 
-p {
+button.Light-Switch{
+    background-color: transparent;
+    text-decoration:underline;
+    margin-top: -98px;
+    border: none;
+    outline: none;
+    position: absolute;
+    right: 7px;
     color: black;
+    font-size: 28px;
 }
