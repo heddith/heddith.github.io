@@ -12,11 +12,14 @@ p {
     color: white;
 }
 
-iframe{
-    position: absolute;
-    bottom: 300px;
-    right: 625px;
+div {
+    text-align: center;
+    width: 100%;
+  }
+
+.iframe{
     border: none;
+    overflow: hidden;
 }
 
 a.a1{
