@@ -12,6 +12,10 @@ p {
     color: white;
 }
 
+iframe.bald{
+    text-align: center;
+}
+
 a.a1{
     position: absolute;
     bottom: 0;
