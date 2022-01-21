@@ -1,0 +1,23 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+
+h1{
+    color: white;
+    text-align:center;
+}
+
+div.unityforums {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+a:link{
+    color: white;
+}
