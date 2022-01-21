@@ -12,8 +12,11 @@ p {
     color: white;
 }
 
-iframe.bald{
-    text-align: center;
+iframe{
+    position: absolute;
+    bottom: 300px;
+    right: 625px;
+    border: none;
 }
 
 a.a1{
