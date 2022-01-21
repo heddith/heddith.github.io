@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 *{
     font-family: 'Roboto', sans-serif;
 }
@@ -40,17 +42,7 @@ a.a2{
     font-size: 28px;
 }
 
-a.a3{
-    position: absolute;
-    text-align: center;
-    bottom: 0;
-    left: 43%;
-    color: white;
-    font-size: 28px;
-    display: none;
-}
-
-a.a1:link, a.a2:link, a.a3:link {
+a.a1:link, a.a2:link {
     color: white;
 }
 
