@@ -1,39 +1,39 @@
 
 body {
-    background-color: white;
+    background-color: black
 }
 
 h1{
     text-align: center;
-    color: black;
+    color: white;
 }
 
 p {
-    color: black;
+    color: white;
 }
 
 a.a1{
     position: absolute;
     bottom: 0;
     left: 7px;
-    color: black;
+    color: white;
     font-size: 28px;
 }
 
 a.a1:link {
-    color: black;
+    color: white;
 }
 
 a.a2{
     position: absolute;
     bottom: 0;
     right: 7px;
-    color: black;
+    color: white;
     font-size: 28px;
 }
 
 a.a2:link {
-    color: black;
+    color: white;
   }
 
 button.Light-Switch{
@@ -44,6 +44,6 @@ button.Light-Switch{
     outline: none;
     position: absolute;
     right: 7px;
-    color: black;
+    color: white;
     font-size: 28px;
 }
