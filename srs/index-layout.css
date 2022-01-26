@@ -5,14 +5,15 @@
     color: white;
 }
 
-html, body {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
-  
+html, body
+    {
+        width: 100%;
+        height: 100%;
+        overflow: hidden
+    }
+
   body{
-      background: linear-gradient(-45deg, #000000, #3d3d3d, #868686, #bdbdbd);
+      background: linear-gradient(-45deg, #000000, #3d3d3d, #868686, #a3a3a3);
       background-size: 400% 400%;
       animation: gradient 12s ease infinite;
   }
@@ -42,21 +43,18 @@ h1 {
     margin: 0 auto;
 }
 
-.github { 
+.github {
     text-align: center;
     font-size: 28px;
-    display: flex;
-    bottom: 0%;
     position: absolute;
     bottom: 0;
+    left: 0%;
+    right: 0%;
 }
 
 .learn_cymraeg { 
+    display: block;
     text-align: center;
-    font-size: 28px;
-    display: flex;
-    bottom: 0%;
-    position: absolute;
-    bottom: 0;
-    right: 7px;
+    margin: 0 auto;
+    font-size: 18px;
 }
